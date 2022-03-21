@@ -1,0 +1,1 @@
+In the education system, you can define the student and the course and the professor and the units of a course. Then, like an education system, select the requested course for a specific student. Also, you can see another feature (searching , ... )  in menu . 
